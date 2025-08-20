@@ -15,8 +15,8 @@ background-color: #f4efba;
     background-color: white;
     padding: 2rem;
     border-radius: 1rem;
-    min-height: 45vh;
-    width : 40vh;
+    min-height: 55vh;
+    width : 50vh;
 }
 form {
     margin: 2rem 0 1rem 0;
@@ -37,7 +37,7 @@ form select,input,button {
 form input{
     height : 3rem;
     border: 1px solid lightgray;
-    font-size: 1rem;
+    font-size: 1.5rem;
     padding-left: 0.5rem;
 }
 
@@ -48,7 +48,7 @@ form input{
     margin-top: 2rem;
 }
 .dropdown i{
-    font-size: 1.5rem ;
+    font-size: 2rem ;
     margin-top: 1rem;
 }
 .select-container img{
@@ -60,10 +60,10 @@ form input{
     align-items: center;
     border-radius: 0.5rem;
     border: 1px solid lightgray;
-    width: 6rem;
+    width: 8rem;
 }
 .select-container select{
-    font-size: 1rem;
+    font-size: 1.5rem;
     width: auto;
 }
 
@@ -75,7 +75,7 @@ form button {
     height: 3rem;
     background-color: #af4d98;
     color: white;
-    font-size: 1.15rem;
+    font-size: 1.5rem;
     cursor: pointer;
 }
 
