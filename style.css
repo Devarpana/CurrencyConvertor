@@ -18,6 +18,12 @@ background-color: #f4efba;
     min-height: 55vh;
     width : 50vh;
 }
+h2{
+    font-size: 2rem;
+}
+p{
+    font-size: 1.2rem;
+}
 form {
     margin: 2rem 0 1rem 0;
 }
@@ -69,6 +75,10 @@ form input{
 
 .msg {
     margin: 2rem 0;
+    font-size: 1.35rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 form button {
